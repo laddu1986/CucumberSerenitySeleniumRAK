@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # cucumber-parallel
 Exercise to prove parallel execution with cucumber
 
@@ -25,6 +25,6 @@ Important bits:
 * perCoreThreadCount = to avoid surprises on multi-core processors 
 
 =======
-# RMTAPP
+
 Test Repo
 >>>>>>> refs/remotes/origin/master
