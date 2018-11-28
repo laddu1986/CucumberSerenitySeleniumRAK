@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Custom suite" verbose="1" thread-count="5" parallel="none" configfailurepolicy="continue">
+  <!--  <listeners>
+      &lt;!&ndash;  <listener class-name="com.cucumber.listener.ExtentCucumberFormatter"></listener>&ndash;&gt;
+        <listener class-name="com.cucumber.listener.TestNGExecutionListener"></listener>
+    </listeners>-->
+
+    
+
+ 
+   
+    <test name="FundsTransferWithinUae" enabled="true">
+
+        <classes>
+            <class name="com.cucumber.runners.FundsTransferWithinUaeTest"/>
+        </classes>
+    </test>
+    <test name="RakMoneyTransfer" enabled="true">
+        <classes>
+            <class name="com.cucumber.runners.RakMoneyTransferTest"/>
+        </classes>
+    </test>
+   
+</suite>
