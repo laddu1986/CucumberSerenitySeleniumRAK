@@ -27,4 +27,7 @@ Important bits:
 =======
 
 Test Repo
+
+To Run :   
+mvn clean test -DTest="tagname"
 >>>>>>> refs/remotes/origin/master
