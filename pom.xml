@@ -20,7 +20,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<cucumber.version>1.2.5</cucumber.version>
 		<junit.version>4.12</junit.version>
-		<springframework.version>4.1.3.RELEASE</springframework.version>
+		<springframework.version>5.3.19</springframework.version>
 		<org.slf4j.version>1.7.7</org.slf4j.version>
 		<extentreports.version>3.0.6</extentreports.version>
 		<test.integration.pattern>**/*IntegrationTest*.java</test.integration.pattern>
